@@ -1,0 +1,5 @@
+include ':CommonService'
+include ':LoginModule'
+include ':CommonLib'
+include ':app'
+rootProject.name = "AndrStarted"
