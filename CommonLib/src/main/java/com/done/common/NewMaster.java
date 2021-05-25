@@ -10,4 +10,5 @@ package com.done.common;
  **/
 public class NewMaster {
     //Master-1
+    //Master-2
 }
